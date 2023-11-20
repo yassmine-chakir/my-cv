@@ -1,0 +1,145 @@
+/* Ajoutez ces styles à votre fichier App.css ou à un autre fichier CSS de votre choix */
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 100;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #007bff;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #333;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.formation-section {
+  display: flex;
+  flex-direction: column;
+}
+.formation-section h2 {
+  color: #007bff;
+}
+.formation-item {
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+
+
+.formation-item p {
+  margin: 5px 0;
+}
+
+/* Ajoutez ces styles à votre fichier CSS (par exemple, HardSkillsAn.css) */
+
+.hard-skills {
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.hard-skills h2 {
+  color: #007bff;
+}
+
+.hard-skills ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.hard-skills li {
+  margin: 5px 0;
+}
+
+/* Ajoutez ces styles à votre fichier CSS (par exemple, ProjectsFr.css) */
+
+.projects-fr {
+  margin-bottom: 20px;
+}
+
+.projects-fr h2 {
+  color: #007bff;
+}
+
+.projects-fr div {
+  margin-bottom: 15px;
+}
+
+.projects-fr h3 {
+  color: #333;
+}
+
+.projects-fr p {
+  margin: 5px 0;
+}
+
+/* Ajoutez ces styles à votre fichier CSS (par exemple, PersonalInfoFr.css) */
+
+.personal-info-fr {
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.personal-info-fr h2 {
+  color: #007bff;
+}
+
+.personal-info-fr p {
+  margin: 5px 0;
+}
+
+/* Ajoutez ces styles à votre fichier CSS (par exemple, ProjectsFr.css) */
+
+.projects-fr {
+  margin-bottom: 20px;
+}
+
+.projects-fr h2 {
+  color: #007bff;
+}
+
+.projects-fr div {
+  margin-bottom: 15px;
+}
+
+.projects-fr h3 {
+  color: #333;
+}
+
+.projects-fr p {
+  margin: 5px 0;
+}
+
+
+
